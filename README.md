@@ -3,8 +3,5 @@
 - 🌱 I’m currently learning Angular,Databases...
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at popovski_f@hotmail.com
+- 💻 Here is the link to my little project https://filip10011.github.io/Rock-Paper-Scissors/
 
-<!---
-Filip10011/Filip10011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
