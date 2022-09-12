@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Filip
 - 👀 I’m interested in programming especially in web development,also i like doing any kind of sports like football,basketball,running,hiking etc...
-- 🌱 I’m currently learning React,SQL Databases,Adobe XD...
+- 🌱 I’m currently improving my knowledge in React,SQL Databases
 - 📫 You can reach me at popovski_f@hotmail.com
 - 💻 Here is a link to my little project https://filip10011.github.io/Rock-Paper-Scissors
